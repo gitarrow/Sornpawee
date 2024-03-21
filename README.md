@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sornpawee</h1>
 <h3 align="center">A KMITL engineer student</h3>
-<h3 align="center">Check my coruse, work, and project in the folder above:</h3>
+<h3 align="center">Check my coruse, work, and projects in the folder above:</h3>
 
 - 🌱 I’m currently learning **Frontend stack such as React, Tailwind**
 
 - 📫 My email: **nsp185@gmail.com**
-- - 📫 Linkedin: **<a href="https://www.linkedin.com/in/sorn-pawee-5172b02a5/">Visit my profile!</a>**
+- 📫 Linkedin: **<a href="https://www.linkedin.com/in/sorn-pawee-5172b02a5/">Visit my profile!</a>**
 
 
 <p align="left">
