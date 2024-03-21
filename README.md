@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sornpawee</h1>
 <h3 align="center">A KMITL engineer student</h3>
+<h3 align="center">Check my coruse, work, and project in the folder above:</h3>
 
 - 🌱 I’m currently learning **Frontend stack such as React, Tailwind**
 
 - 📫 How to reach me **nsp185@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
