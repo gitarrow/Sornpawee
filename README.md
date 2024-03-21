@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **Frontend stack such as React, Tailwind**
 
-- 📫 How to reach me **nsp185@gmail.com**
+- 📫 My email: **nsp185@gmail.com**
+- - 📫 Linkedin: **<a href="https://www.linkedin.com/in/sorn-pawee-5172b02a5/">Visit my profile!</a>**
 
 
 <p align="left">
